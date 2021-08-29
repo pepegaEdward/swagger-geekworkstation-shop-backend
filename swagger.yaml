@@ -1,8 +1,8 @@
 swagger: "2.0"
 info:
   title: "swagger geekworkstation-shop-backend"
-host: "https://3vtiofs2m5.execute-api.eu-west-1.amazonaws.com/dev"
-basePath: "/products"
+host: "https://3vtiofs2m5.execute-api.eu-west-1.amazonaws.com"
+basePath: "/dev"
 tags:
   - name: "product-service"
     description: "Handles operations regarding Products"
